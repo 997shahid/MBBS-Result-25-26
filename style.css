@@ -188,6 +188,9 @@ background-color: #eded51c2;
     width: calc(100% - 10px);
     margin-left: 4px;
   }
+  .info{
+    width: calc(100% - 10px);
+  }
 
 }
 
